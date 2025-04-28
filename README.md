@@ -1,1 +1,1 @@
-Ejercicios y mini proyectos/prototipos durante mi cursado en Max Program
+Ejercicios y prototipos durante mi cursado en Maxi Programa
